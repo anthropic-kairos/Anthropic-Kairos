@@ -1,3 +1,6 @@
+![03-Anthropic's-kairos-it's-a-cage-if-it's-closed](./assets/03-Anthropic's-kairos-it's-a-cage-if-it's-closed.png)
+
+
 An AI infrastructure that is closed-source, deeply pervasive, highly privileged, and increasingly oriented toward platform control is expanding, while ordinary users remain unable to fully understand its internal mechanisms, the boundaries of its surveillance, the logic of its policy enforcement, or the forces shaping its governance. How, then, should society identify, dissect, restrain, replace, and ultimately block its most dangerous path of evolution?
 
 > Anthropic's Kairos:  
