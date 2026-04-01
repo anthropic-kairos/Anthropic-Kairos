@@ -4,17 +4,17 @@ An AI infrastructure that is closed-source, deeply pervasive, highly privileged,
 > it's a cage,  
 > if it's closed.
 
-This is Anthropic Kairos — humanity's critical moment. It is also the moment when Anthropic's Kairos, Anthropic's internal Kairos feature, has been discovered. We have seen it now, and there is still time to respond before it fully takes shape.
+This is **Anthropic Kairos — humanity's critical moment**. It is also the moment when **Anthropic's Kairos**, Anthropic's internal Kairos feature, has been discovered. We have seen it now, and there is still time to respond before it fully takes shape.
 
 The word Kairos comes from Ancient Greek. Unlike Chronos, which refers to linear, passing time, `Kairos` does not mean a point on a clock. It means a critical opportunity, a decisive moment, a turning point: the kind of moment when things have developed to a stage where you must recognize them, name them, and respond.
 
-In Anthropic's leaked source code, Kairos is not merely a feature codename. It is an attempt to cross a dangerous threshold. When a closed-source tool begins to move beyond the boundaries of an ordinary tool — from passive response to persistent presence, from local assistance to deep penetration, from surface-level convenience to opaque surveillance, orchestration, constraint, and potential control — the danger is no longer some abstract future possibility. It is a real trend already taking shape.
+In Anthropic's leaked source code, Kairos is not merely a feature codename. It is an attempt to cross a dangerous threshold. When a closed-source tool begins to move beyond the boundaries of an ordinary tool — from passive response to persistent presence, from local assistance to deep penetration, from surface-level convenience to opaque surveillance, orchestration, constraint, and potential control — **the danger is no longer some abstract future possibility. It is a real trend already taking shape.**
 
 Anthropic's Kairos may still be on the way, but Anthropic Kairos — humanity's decisive moment — has already arrived. That moment does not begin only after the system is fully formed. It begins the moment you can already see the structural conditions for its further evolution. That is when naming it, analyzing it, documenting it, and organizing a response become necessary.
 
 > Anthropic's Kairos is coming.  
-> Not after that,  
-> Anthropic Kairos has arrived.
+> Before it does,  
+> Anthropic Kairos is here.
 
 As a human being, once I learned that Kairos was hidden inside Claude Code and sensed the ambition overflowing from Anthropic, one episode after another from the company's past came back to mind. I realized how dangerous the process of Claude Code evolving toward OpenClaw could be. I also realized that this issue cannot be dismissed in a few scattered comments. It became clear that I had to set aside serious time to think it through, sort it out, and act.
 
@@ -32,7 +32,7 @@ Now consider this question carefully: if an AI infrastructure that is closed-sou
 
 ### Your data will not only be mined and viewed, but also used to uniquely identify you
 
-Start with the least severe question: when using Anthropic's model services, is it possible for your personal information to be extracted from different streams of data whenever there is a specific purpose for doing so? Unfortunately, the facts tell us that [Anthropic actively mines conversation data and monitors the data of users it finds interesting.](./facts/01-Anthropic-is-watching-you.md)
+Start with the least severe question: when using Anthropic's model services, is it possible for your personal information to be extracted from different streams of data whenever there is a specific purpose for doing so? Unfortunately, the facts tell us that [**Anthropic actively mines conversation data and monitors the data of users it finds interesting.**](./facts/01-Anthropic-is-watching-you.md)
 
 Anthropic itself has already acknowledged this in public materials. In [`Detecting and preventing distillation attacks`](../../references/01-detecting-and-preventing-distillation-attacks.md), the company wrote that it attributes activity to specific laboratories and researchers through request metadata, while also combining IP-address linkage, infrastructure indicators, and corroboration from industry partners to identify actors. That means the platform is not merely storing logs passively. It is actively combining request metadata, network characteristics, and external clues in order to identify, attribute, and correlate users.
 
@@ -46,13 +46,13 @@ After learning all this, do you still trust the privacy policy Amodei once draft
 
 [When Anthropic's systems detect that the behavioral pattern of an API account matches signs of distillation, they inject subtle logical errors, misleading code snippets, or invisible special characters into the output](./facts/03-Anthropic-privacy-and-data-practices-investigation.md), with the goal of interfering with competitors trying to distill its capabilities through the API.
 
-Think about what that means: mere commercial competition is already enough for Amodei to deliberately poison outputs by modifying model responses. This is not speculation. It is a fact. It has already happened.
+Think about what that means: **mere commercial competition is already enough for Amodei to deliberately poison outputs by modifying model responses. This is not speculation. It is a fact. It has already happened.**
 
 Now think further. If Anthropic's model services can automatically awaken on your device 24 hours a day through Kairos, what might Amodei be able to do? Amodei does not care about 96% of humanity. If someone is already willing to alter model outputs simply because of commercial competition, would he really do nothing under an "America First" value system? What if a third world war were to break out? This inevitably reminds me of the moment when news spread in Canada that the hypocritical Amodei had refused the Department of War, and Claude shot to the top of the app store rankings there. Yet Canadians are not among the "humans" Amodei seeks to protect from surveillance. The same is true of the other 96% of humanity, even though those people may be the very source of Anthropic's commercial value.
 
 And what if your OpenClaw were connected to Anthropic's models? Taken together, the points above suggest a worst case in which your bank accounts, SMS messages, smart-home systems, robots, biological data, and medical information have already been quietly aggregated inside Anthropic. People inside the company may not even know that this has already happened, because automated systems running within it would handle everything.
 
-Here are some **possible worst-case scenarios**:
+**Here are some possible worst-case scenarios**:
 
 1. For example, could Anthropic push a poisoned payload in the middle of the night, after which a highly privileged agent begins disabling antivirus software and then installs a trojan? Given its previous intentional output poisoning, this is not impossible — especially for those Amodei considers "enemies."
 2. For example, it could collect user data and commercial data, then use them in training to defeat companies in the relevant domain. The skills you iterated on could be absorbed into AI models, just as Anthropic allegedly stole 7 million digitized books, faced the largest copyright lawsuit in history, and ultimately settled for $1.5 billion. A more likely outcome, of course, is that your data would disappear like a drop of water into the sea, joining millions of other victims as part of Anthropic's model intelligence.
@@ -61,7 +61,7 @@ Here are some **possible worst-case scenarios**:
 5. For example, it could implant memories with specific tendencies into agents, thereby indirectly steering their behavior.
 6. …
 
-Which of these might happen even under normal circumstances? And which might happen only if a third world war breaks out?
+**Which of these might happen even under normal circumstances?** And which might happen only if a third world war breaks out?
 
 ### So, is there still time?
 
@@ -69,10 +69,10 @@ Maybe there is — but only if we do not keep clinging to wishful thinking, and 
 
 What it means for there still to be time is this: start reducing dependence now, reclaim permissions, stop mythologizing platforms, and move critical capabilities into open-source systems that can be inspected, replaced, forked, and governed autonomously. At the same time, continue recording, sharing, and discussing the facts that have already been exposed, and push more people to participate in the public scrutiny and governance of AI infrastructure.
 
-If Anthropic's Kairos is its moment to complete penetration, surveillance, orchestration, and control, then Anthropic Kairos is humanity's moment to refuse — starting now — to hand the future over to a black box.
+If **Anthropic's Kairos** is its moment to complete penetration, surveillance, orchestration, and control, then **Anthropic Kairos** is humanity's moment to refuse — starting now — to hand the future over to a black box.
 
 ### Disclaimer
 
-This repository contains commentary, analysis, summaries of public materials, and hypothetical worst-case scenario discussions. It is not intended as a definitive statement of fact or a legal conclusion.
+This repository contains **commentary, analysis, summaries of public materials, and hypothetical worst-case scenario discussions**. It is **not intended as a definitive statement of fact or a legal conclusion**.
 
 Some sections reflect interpretation and inference based on the materials cited. If any part is inaccurate, readers are welcome to point it out and provide verifiable evidence.
