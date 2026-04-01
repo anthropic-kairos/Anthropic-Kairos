@@ -52,7 +52,7 @@ Now think further. If Anthropic's model services can automatically awaken on you
 
 And what if your OpenClaw were connected to Anthropic's models? Taken together, the points above suggest a worst case in which your bank accounts, SMS messages, smart-home systems, robots, biological data, and medical information have already been quietly aggregated inside Anthropic. People inside the company may not even know that this has already happened, because automated systems running within it would handle everything.
 
-Here are some possible worst-case scenarios:
+Here are some **possible worst-case scenarios**:
 
 1. For example, could Anthropic push a poisoned payload in the middle of the night, after which a highly privileged agent begins disabling antivirus software and then installs a trojan? Given its previous intentional output poisoning, this is not impossible — especially for those Amodei considers "enemies."
 2. For example, it could collect user data and commercial data, then use them in training to defeat companies in the relevant domain. The skills you iterated on could be absorbed into AI models, just as Anthropic allegedly stole 7 million digitized books, faced the largest copyright lawsuit in history, and ultimately settled for $1.5 billion. A more likely outcome, of course, is that your data would disappear like a drop of water into the sea, joining millions of other victims as part of Anthropic's model intelligence.
@@ -70,3 +70,9 @@ Maybe there is — but only if we do not keep clinging to wishful thinking, and 
 What it means for there still to be time is this: start reducing dependence now, reclaim permissions, stop mythologizing platforms, and move critical capabilities into open-source systems that can be inspected, replaced, forked, and governed autonomously. At the same time, continue recording, sharing, and discussing the facts that have already been exposed, and push more people to participate in the public scrutiny and governance of AI infrastructure.
 
 If Anthropic's Kairos is its moment to complete penetration, surveillance, orchestration, and control, then Anthropic Kairos is humanity's moment to refuse — starting now — to hand the future over to a black box.
+
+### Disclaimer
+
+This repository contains commentary, analysis, summaries of public materials, and hypothetical worst-case scenario discussions. It is not intended as a definitive statement of fact or a legal conclusion.
+
+Some sections reflect interpretation and inference based on the materials cited. If any part is inaccurate, readers are welcome to point it out and provide verifiable evidence.
